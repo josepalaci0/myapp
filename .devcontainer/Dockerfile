@@ -1,6 +1,7 @@
 # Usa una imagen base de PHP
 FROM mcr.microsoft.com/devcontainers/php:1-8.2-bullseye
 
+
 # Configura el usuario
 ARG USERNAME=vscode
 ARG USER_UID=1000
